@@ -1,5 +1,6 @@
 name: GitHub Contexts Demo
 on:
+  push:
   workflow_dispatch:
 
 jobs:
